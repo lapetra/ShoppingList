@@ -5,3 +5,10 @@ c:\users\jorge\documents\visual studio 2015\Projects\ShoppingListWebAPI\Shopping
 c:\users\jorge\documents\visual studio 2015\Projects\ShoppingListWebAPI\ShoppingListData\bin\Debug\ShoppingListCore.pdb
 c:\users\jorge\documents\visual studio 2015\Projects\ShoppingListWebAPI\ShoppingListData\obj\Debug\ShoppingListData.dll
 c:\users\jorge\documents\visual studio 2015\Projects\ShoppingListWebAPI\ShoppingListData\obj\Debug\ShoppingListData.pdb
+C:\Users\Jorge\Documents\GitHub\ShoppingList\ShoppingListData\bin\Debug\ShoppingListData.dll
+C:\Users\Jorge\Documents\GitHub\ShoppingList\ShoppingListData\bin\Debug\ShoppingListData.pdb
+C:\Users\Jorge\Documents\GitHub\ShoppingList\ShoppingListData\bin\Debug\ShoppingListCore.dll
+C:\Users\Jorge\Documents\GitHub\ShoppingList\ShoppingListData\bin\Debug\ShoppingListCore.pdb
+C:\Users\Jorge\Documents\GitHub\ShoppingList\ShoppingListData\obj\Debug\ShoppingListData.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\GitHub\ShoppingList\ShoppingListData\obj\Debug\ShoppingListData.dll
+C:\Users\Jorge\Documents\GitHub\ShoppingList\ShoppingListData\obj\Debug\ShoppingListData.pdb
