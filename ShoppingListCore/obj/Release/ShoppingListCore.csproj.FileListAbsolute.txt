@@ -1,0 +1,4 @@
+c:\users\jorge\documents\visual studio 2015\Projects\ShoppingListWebAPI\ShoppingListCore\bin\Release\ShoppingListCore.dll
+c:\users\jorge\documents\visual studio 2015\Projects\ShoppingListWebAPI\ShoppingListCore\bin\Release\ShoppingListCore.pdb
+c:\users\jorge\documents\visual studio 2015\Projects\ShoppingListWebAPI\ShoppingListCore\obj\Release\ShoppingListCore.dll
+c:\users\jorge\documents\visual studio 2015\Projects\ShoppingListWebAPI\ShoppingListCore\obj\Release\ShoppingListCore.pdb

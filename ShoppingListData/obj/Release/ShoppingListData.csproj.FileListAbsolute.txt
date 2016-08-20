@@ -1,0 +1,7 @@
+c:\users\jorge\documents\visual studio 2015\Projects\ShoppingListWebAPI\ShoppingListData\bin\Release\ShoppingListData.dll
+c:\users\jorge\documents\visual studio 2015\Projects\ShoppingListWebAPI\ShoppingListData\bin\Release\ShoppingListData.pdb
+c:\users\jorge\documents\visual studio 2015\Projects\ShoppingListWebAPI\ShoppingListData\bin\Release\ShoppingListCore.dll
+c:\users\jorge\documents\visual studio 2015\Projects\ShoppingListWebAPI\ShoppingListData\bin\Release\ShoppingListCore.pdb
+c:\users\jorge\documents\visual studio 2015\Projects\ShoppingListWebAPI\ShoppingListData\obj\Release\ShoppingListData.csprojResolveAssemblyReference.cache
+c:\users\jorge\documents\visual studio 2015\Projects\ShoppingListWebAPI\ShoppingListData\obj\Release\ShoppingListData.dll
+c:\users\jorge\documents\visual studio 2015\Projects\ShoppingListWebAPI\ShoppingListData\obj\Release\ShoppingListData.pdb

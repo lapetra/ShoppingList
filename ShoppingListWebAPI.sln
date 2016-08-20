@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingListWebAPI", "ShoppingListWebAPI\ShoppingListWebAPI.csproj", "{345F1D2B-AC96-4DC3-B8E2-650EFFADF08E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingListWebAPI.Tests", "ShoppingListWebAPI.Tests\ShoppingListWebAPI.Tests.csproj", "{0D8F6A69-04A9-437A-8033-ECBCEFAC7B59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingListCore", "ShoppingListCore\ShoppingListCore.csproj", "{C27BAF15-3D7F-4065-ABA4-4CF0FD83C206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingListData", "ShoppingListData\ShoppingListData.csproj", "{8A0B58F1-739D-432D-89D7-54E21BC6C626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345F1D2B-AC96-4DC3-B8E2-650EFFADF08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345F1D2B-AC96-4DC3-B8E2-650EFFADF08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345F1D2B-AC96-4DC3-B8E2-650EFFADF08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345F1D2B-AC96-4DC3-B8E2-650EFFADF08E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D8F6A69-04A9-437A-8033-ECBCEFAC7B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8F6A69-04A9-437A-8033-ECBCEFAC7B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8F6A69-04A9-437A-8033-ECBCEFAC7B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8F6A69-04A9-437A-8033-ECBCEFAC7B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C27BAF15-3D7F-4065-ABA4-4CF0FD83C206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C27BAF15-3D7F-4065-ABA4-4CF0FD83C206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C27BAF15-3D7F-4065-ABA4-4CF0FD83C206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C27BAF15-3D7F-4065-ABA4-4CF0FD83C206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A0B58F1-739D-432D-89D7-54E21BC6C626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0B58F1-739D-432D-89D7-54E21BC6C626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0B58F1-739D-432D-89D7-54E21BC6C626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0B58F1-739D-432D-89D7-54E21BC6C626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
